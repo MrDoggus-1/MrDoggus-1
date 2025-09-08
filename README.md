@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Mirko
-- 👀 I’m interested in Motorcycles and tech
-- 🌱 I’m currently learning Java, C, HTML and CSS
-- 📫 You can reach me via mail, mastrangelo12549862@luigidellerba.edu.it
-
+bam bam bam bam bam o core mi fa bam bam bam bam bam
